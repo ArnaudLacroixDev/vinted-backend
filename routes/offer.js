@@ -7,8 +7,6 @@ const Offer = require("../models/Offer");
 
 router.post("/publish", isAuthenticated, async (req, res) => {
   try {
-    console.log("userToken back ===>", req.headers.authorization);
-
     const { title, description, price, condition, city, brand, size, color } =
       req.fields;
 
