@@ -2,7 +2,9 @@
 
 ### Preview & direct link to the project:
 
-Coming soon.
+<a href="https://vinted-like.netlify.app/"><img src="https://res.cloudinary.com/dsggwrmg1/image/upload/v1635521231/Projects%20screens/vinted_preview_axuwhi.jpg" alt="Vinted-like homescreen" /> </a>
+
+Link: https://vinted-like.netlify.app/
 
 ### Quick description:
 This project uses
